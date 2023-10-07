@@ -1,0 +1,49 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    background-color: rgb(189, 185, 185);
+    height: 50px;
+}
+
+.align{
+    width: 100%;
+}
+
+#Searchbar {
+    width: 1125px;
+    padding: 5px 15px;
+    color: black;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40px;
+}
+
+.align span {
+    display: flex; 
+    align-items: center; 
+  }
+  
+  .Post {
+    margin-right: 10px; 
+    font-size: 15px;
+    color: black;
+  }
+  
+  .Login {
+    font-size: 15px;
+    margin-right: 4px;
+    color: black;
+    margin-left: auto; 
+  }
+
+
+  .d{
+    color: black;
+    font-size: smaller;
+    margin-left: 10px;
+  }

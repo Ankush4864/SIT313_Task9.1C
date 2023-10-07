@@ -1,0 +1,30 @@
+ .search-bar {
+    display: block;
+    height: 80%;
+    width: 100%;
+    background-color: grey;
+  }
+  
+  .search-bar form {
+    margin-top: 10px;
+    display: inline-block;
+    align-items: center;
+  }
+  
+  .search-bar input {
+    padding: 10px;
+    margin: 30px;
+    width: 1000px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    border-radius: 5px;
+  }
+  
+  .search-bar p {
+    color: black;
+    margin-left: 20px;
+    margin-right: 35px;
+    display: inline-block;
+  }
+
+  

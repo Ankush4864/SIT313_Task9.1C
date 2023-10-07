@@ -1,0 +1,70 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  /* background-color: #f0f0f0; */
+  color: #007bff;
+  display: block;
+  border: 2px;
+  border-radius: 10px;
+  width: 50%;
+  margin-left: 25%;
+  
+}
+
+.name{
+  display: inline-block;
+  width: 15%;
+  color: black;
+}
+
+
+.email{
+  display: inline-block;
+  width: 15%;
+  color: black;
+}
+
+.password{
+  display: inline-block;
+  width: 15%;
+  color: black;
+}
+
+.confirm_password{
+  display: inline-block;
+  width: 15%;
+  color: black;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="displayName"],
+input[type="password"] {
+
+  text-align: center;
+  display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    width: 75%;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  width: 82%;
+  margin-left: 15px;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.b{
+  border-style: solid;
+  border-color: #007bff;
+  width: 50%;
+  margin-left: 23%;
+  margin-top:30px  ;
+}
